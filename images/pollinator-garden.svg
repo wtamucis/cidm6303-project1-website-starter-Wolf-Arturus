@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Pollinator friendly flowers</title>
+  <desc id="desc">Flowers on a balcony with bees and butterflies.</desc>
+  <rect width="720" height="420" fill="#fdf7ee"/>
+  <rect y="315" width="720" height="105" fill="#d6c0a0"/>
+  <rect x="80" y="300" width="560" height="20" rx="10" fill="#786655"/>
+  <path d="M155 305 L155 215" stroke="#4f8749" stroke-width="7"/>
+  <path d="M270 305 L270 190" stroke="#4f8749" stroke-width="7"/>
+  <path d="M390 305 L390 210" stroke="#4f8749" stroke-width="7"/>
+  <path d="M515 305 L515 185" stroke="#4f8749" stroke-width="7"/>
+  <circle cx="155" cy="205" r="20" fill="#f3a93a"/>
+  <circle cx="133" cy="205" r="18" fill="#ef6d6d"/>
+  <circle cx="177" cy="205" r="18" fill="#ef6d6d"/>
+  <circle cx="155" cy="183" r="18" fill="#ef6d6d"/>
+  <circle cx="155" cy="227" r="18" fill="#ef6d6d"/>
+  <circle cx="270" cy="182" r="22" fill="#f3a93a"/>
+  <circle cx="244" cy="182" r="20" fill="#9a74d6"/>
+  <circle cx="296" cy="182" r="20" fill="#9a74d6"/>
+  <circle cx="270" cy="156" r="20" fill="#9a74d6"/>
+  <circle cx="270" cy="208" r="20" fill="#9a74d6"/>
+  <circle cx="390" cy="200" r="20" fill="#f3a93a"/>
+  <circle cx="368" cy="200" r="18" fill="#ff8c5a"/>
+  <circle cx="412" cy="200" r="18" fill="#ff8c5a"/>
+  <circle cx="390" cy="178" r="18" fill="#ff8c5a"/>
+  <circle cx="390" cy="222" r="18" fill="#ff8c5a"/>
+  <circle cx="515" cy="176" r="22" fill="#f3a93a"/>
+  <circle cx="489" cy="176" r="20" fill="#f1d15f"/>
+  <circle cx="541" cy="176" r="20" fill="#f1d15f"/>
+  <circle cx="515" cy="150" r="20" fill="#f1d15f"/>
+  <circle cx="515" cy="202" r="20" fill="#f1d15f"/>
+  <ellipse cx="585" cy="110" rx="20" ry="12" fill="#8dd1ff"/>
+  <ellipse cx="607" cy="110" rx="20" ry="12" fill="#8dd1ff"/>
+  <rect x="594" y="105" width="12" height="24" rx="6" fill="#38454f"/>
+  <line x1="600" y1="105" x2="592" y2="92" stroke="#38454f" stroke-width="3"/>
+  <line x1="600" y1="105" x2="608" y2="92" stroke="#38454f" stroke-width="3"/>
+  <ellipse cx="205" cy="102" rx="18" ry="12" fill="#ffe17a"/>
+  <ellipse cx="225" cy="102" rx="18" ry="12" fill="#ffe17a"/>
+  <rect x="210" y="97" width="10" height="24" rx="5" fill="#383838"/>
+  <line x1="215" y1="97" x2="205" y2="84" stroke="#383838" stroke-width="3"/>
+  <line x1="215" y1="97" x2="225" y2="84" stroke="#383838" stroke-width="3"/>
+</svg>

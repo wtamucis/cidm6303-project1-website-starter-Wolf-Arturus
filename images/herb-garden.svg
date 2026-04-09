@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" role="img" aria-labelledby="title desc">
+  <title id="title">Herb garden containers</title>
+  <desc id="desc">Four herb planters labeled basil, mint, rosemary, and thyme.</desc>
+  <rect width="720" height="420" fill="#f5fbf1"/>
+  <rect y="300" width="720" height="120" fill="#d9c4a5"/>
+  <rect x="70" y="290" width="580" height="22" rx="10" fill="#7d6b57"/>
+  <rect x="95" y="315" width="118" height="70" rx="10" fill="#ba7652"/>
+  <rect x="238" y="315" width="118" height="70" rx="10" fill="#a66241"/>
+  <rect x="381" y="315" width="118" height="70" rx="10" fill="#ba7652"/>
+  <rect x="524" y="315" width="118" height="70" rx="10" fill="#a66241"/>
+  <text x="154" y="355" font-family="Segoe UI, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff8f3">Basil</text>
+  <text x="297" y="355" font-family="Segoe UI, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff8f3">Mint</text>
+  <text x="440" y="355" font-family="Segoe UI, Arial, sans-serif" font-size="22" text-anchor="middle" fill="#fff8f3">Rosemary</text>
+  <text x="583" y="355" font-family="Segoe UI, Arial, sans-serif" font-size="24" text-anchor="middle" fill="#fff8f3">Thyme</text>
+  <circle cx="125" cy="262" r="28" fill="#7bbe67"/>
+  <circle cx="156" cy="236" r="34" fill="#5f9e56"/>
+  <circle cx="188" cy="261" r="28" fill="#6fb463"/>
+  <circle cx="267" cy="258" r="29" fill="#75b96b"/>
+  <circle cx="297" cy="228" r="35" fill="#66a65c"/>
+  <circle cx="330" cy="258" r="29" fill="#81c476"/>
+  <path d="M410 276 C430 220, 445 210, 457 164" stroke="#4f7f43" stroke-width="7" fill="none"/>
+  <path d="M438 280 C458 228, 475 222, 490 170" stroke="#5b8c4d" stroke-width="7" fill="none"/>
+  <path d="M559 280 C564 238, 554 212, 548 184" stroke="#58874a" stroke-width="6" fill="none"/>
+  <path d="M583 280 C589 230, 602 212, 609 180" stroke="#58874a" stroke-width="6" fill="none"/>
+  <path d="M607 280 C613 238, 625 220, 632 190" stroke="#58874a" stroke-width="6" fill="none"/>
+  <ellipse cx="455" cy="164" rx="24" ry="11" fill="#7bb96f"/>
+  <ellipse cx="489" cy="170" rx="24" ry="11" fill="#7bb96f"/>
+  <ellipse cx="548" cy="184" rx="18" ry="9" fill="#7bb96f"/>
+  <ellipse cx="609" cy="180" rx="18" ry="9" fill="#7bb96f"/>
+  <ellipse cx="632" cy="190" rx="18" ry="9" fill="#7bb96f"/>
+</svg>
